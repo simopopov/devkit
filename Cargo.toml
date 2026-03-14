@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "portwatch",
+    "envdiff",
+    "gitwho",
+    "procmap",
+]
+resolver = "2"
